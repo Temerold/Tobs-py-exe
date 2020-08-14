@@ -1,6 +1,6 @@
 import os
 
-print("Inga mellanslag ' eller \" i filnamn.")
+print("Inga mellanslag eller \"'\" i filnamn.")
 fil = input("Filnamn (.py/.pyw): ")
 icon = input("Ikon (.ico): ")
 if icon != "":
